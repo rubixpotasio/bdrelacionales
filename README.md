@@ -1,2 +1,2 @@
-# bdrelacionales
-Base de datos relacionales 
+# Zepeda Garcia Rubi Esmeralda
+4AVP
